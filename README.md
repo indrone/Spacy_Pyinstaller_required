@@ -1,0 +1,1 @@
+# Spacy_Pyinstaller_required
