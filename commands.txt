@@ -1,0 +1,1 @@
+pyinstaller -w -F main.spec  --path /home/indresh/Desktop/demo/env/lib/python3.8/site-package
